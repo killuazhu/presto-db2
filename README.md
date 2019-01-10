@@ -9,7 +9,7 @@ Create new properties file inside `etc/catalog` dir:
     connector.name=db2
     connection-url=jdbc:db2://ip:port/database
     connection-user=myuser
-    connection-password=mypassword
+    connection-password=abcdeabcdeabcdeabcdeabcdeabcdeabcdeabcde
 
 ## Building Presto DB2 JDBC Plugin
 
